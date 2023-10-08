@@ -2,7 +2,7 @@
 
 **Build Data Visualization**
 
-Tableau was used to  build  a visualisation to communicate  information derived from 2015 US Census
+Tableau was used to  build  a visualisation to communicate  information derived from 2015 US Census.
 Variables  of particular interest were:
 - Distribution of the Population of USA. (Find visualization [here](https://public.tableau.com/app/profile/eric.otu/viz/EmploymentStatusVsChildPovertyPovertyandIncome/PopulationDashboard?publish=yes)).
 - Income Vs Child Poverty and Poverty. (Find visualization[here](https://public.tableau.com/app/profile/eric.otu/viz/EmploymentStatusVsChildPovertyPovertyandIncome/IncomeVsPovertyandChildPovertyStory?publish=yes)).
